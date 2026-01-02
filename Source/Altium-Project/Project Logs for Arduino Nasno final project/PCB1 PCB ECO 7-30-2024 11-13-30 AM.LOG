@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=RESET Pin=R3-1
+Removed Pin From Net: NetName=+5 Pin=R3-2
+Removed Pin From Net: NetName=NetD3_2 Pin=R5-2
+Removed Pin From Net: NetName=D13 / SCK Pin=R7-1
+Removed Pin From Net: NetName=NetD5_1 Pin=R7-2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=RESC3216X60X45ML10T20
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=RESC3216X60X45ML10T20
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.3 New Footprint=RESC3216X60X45ML10T20
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.3 New Footprint=RESC3216X60X45ML10T20
+Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.3 New Footprint=RESC3216X60X45ML10T20
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.3 New Footprint=RESC3216X60X45ML10T20
+Change Component Comment : Designator=R1 Old Comment=Res1 New Comment=CRCW1206470RFKEA
+Change Component Comment : Designator=R2 Old Comment=Res1 New Comment=CRCW1206470RFKEA
+Change Component Comment : Designator=R4 Old Comment=Res1 New Comment=CRCW1206470RFKEA
+Change Component Comment : Designator=R5 Old Comment=Res1 New Comment=CRCW1206470RFKEA
+Change Component Comment : Designator=R6 Old Comment=Res1 New Comment=CRCW1206470RFKEA
+Change Component Comment : Designator=R7 Old Comment=Res1 New Comment=CRCW1206470RFKEA
+Change Component Designator: OldDesignator= NewDesignator=S4
+Change component parameters: Designator = "R1"; Footprint = "RESC3216X60X45ML10T20"; UniqueID = "\VKHAKQNR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206470RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RESC3216X60X45ML10T20"; UniqueID = "\UTMYXZSI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206470RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "RESC3216X60X45ML10T20"; UniqueID = "\KITAFYLI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206470RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "RESC3216X60X45ML10T20"; UniqueID = "\FWPXDIWH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206470RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "RESC3216X60X45ML10T20"; UniqueID = "\SQEEQLHO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206470RFKEA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "RESC3216X60X45ML10T20"; UniqueID = "\NGGVGBJZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW1206470RFKEA"; VariantName = "[No Variations]"
+Added Component: Designator= R3(RESC3216X60X45ML10T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW1206470RFKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin= R3-1
+Added Pin To Net: NetName=+5 Pin= R3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R7-1
+Added Pin To Net: NetName=D13 / SCK Pin=R7-2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-23
+Added Net: Name=NetR5_2
+Added Member To Class: ClassName=Sheet1 Member=Component  R3 CRCW1206470RFKEA
+Added Room: Name=Sheet1
